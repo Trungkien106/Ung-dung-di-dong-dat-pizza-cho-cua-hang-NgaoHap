@@ -1,6 +1,6 @@
-# ung_dung_dat_pizza
+# ngaohap_pizza_app
 
-Tạo ứng dụng di động đặt Pizza cho cửa hàng NgaoHap
+Xay dung ung dung dat pizza cho cua hang NgaoHap
 
 ## Getting Started
 

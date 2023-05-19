@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "898148725580",
+    "project_id": "ngaohap-pizza",
+    "storage_bucket": "ngaohap-pizza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898148725580:android:5ff769e87ec84d58ba95e9",
+        "android_client_info": {
+          "package_name": "com.example.ngaohap_pizza_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898148725580-hnbot44kc7jahu59t2k8kkk0gp8ru20t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ngaohap_pizza_app",
+            "certificate_hash": "7bbccbd11c9ab8eaeb9b3ecad67f520208a7d446"
+          }
+        },
+        {
+          "client_id": "898148725580-910ht94j0gusesmjh8qe963orq8fhfea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1F6Ygit1DVtwVjISIBDJdCtjBje6HbxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898148725580-910ht94j0gusesmjh8qe963orq8fhfea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
